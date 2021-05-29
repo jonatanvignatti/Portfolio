@@ -6,6 +6,8 @@
 * Bachelors of Science (Physics), *San Marcos National University*, 2009-2015
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+![alt text](john-moeses-bauan-OGZtQF8iC0g-unsplash)
+
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
