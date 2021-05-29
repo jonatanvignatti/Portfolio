@@ -3,7 +3,7 @@
 
 # Education
 * PhD(c) in High Energy Physics, *Santa Maria Technical University*, 2017-2022
-* Bachelors of Science (Physics), *YouTube University*, 2009-2015
+* Bachelors of Science (Physics), *San Marcos National University*, 2009-2015
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
