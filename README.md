@@ -1,5 +1,5 @@
 # Jonatan Vignatti
-*An Aspiring Data Scientist 
+*An Aspiring Data Scientist* 
 
 # Education
 * PhD(c) in High Energy Physics, *Santa Maria Technical University*, 2017-2022
